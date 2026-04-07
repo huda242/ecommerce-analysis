@@ -20,22 +20,13 @@ Charts are generated automatically and saved in the outputs folder.
 - Optional: Streamlit for dashboard  
 
 ## How to Run
-1. Clone the repo:  
-```bash
-git clone https://github.com/huda242/ecommerce-analysis.git
-cd ecommerce-analysis
+Clone the repo: git clone https://github.com/huda242/ecommerce-analysis.git  
+Install dependencies: pip install -r requirements.txt  
+Run the analysis: python analysis.py  
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-
-3. Run the analysis:
-```bash
-python analysis.py
-
-Charts will be saved automatically in outputs/ folder
+> Charts will be saved automatically in the outputs/ folder
 
 ## Notes
-Sample dataset included (data/data.csv)
-Modify CSV to analyze more complex datasets
-Ensure outputs/ folder is created automatically
+Sample dataset included (data/data.csv). 
+Modify CSV to analyze more complex datasets. 
+Ensure outputs/ folder is created automatically.
