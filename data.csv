@@ -1,0 +1,8 @@
+Customer,City,Region,Category,Product,Quantity,Amount,Date
+Amit,Delhi,North,Electronics,Phone,1,20000,2024-01-10
+Sara,Mumbai,West,Electronics,Laptop,1,50000,2024-02-15
+John,Delhi,North,Furniture,Chair,2,5000,2024-02-20
+Amit,Delhi,North,Electronics,Headphones,1,2000,2024-03-05
+Sara,Mumbai,West,Electronics,Phone,1,22000,2024-03-18
+Rahul,Bangalore,South,Furniture,Laptop,1,48000,2024-03-22
+Neha,Delhi,North,Clothing,Jacket,2,3000,2024-02-10
