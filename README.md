@@ -30,3 +30,17 @@ Run the analysis: python analysis.py
 Sample dataset included (data/data.csv). 
 Modify CSV to analyze more complex datasets. 
 Ensure outputs/ folder is created automatically.
+
+## Screenshots
+
+**Monthly Revenue Trend**  
+![Monthly Revenue](outputs/monthly_revenue.png)
+
+**Top 10 Products**  
+![Top Products](outputs/top_products.png)
+
+**Revenue by Region**  
+![Revenue by Region](outputs/revenue_by_region.png)
+
+**Revenue by Category**  
+![Revenue by Category](outputs/revenue_by_category.png)
