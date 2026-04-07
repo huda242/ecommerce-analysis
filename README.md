@@ -34,13 +34,13 @@ Ensure outputs/ folder is created automatically.
 ## Screenshots
 
 **Monthly Revenue Trend**  
-![Monthly Revenue](outputs/monthly_revenue.png)
+![Monthly Revenue](outputs/monthly_revenue_trend.png)
 
 **Top 10 Products**  
-![Top Products](outputs/top_products.png)
+![Top Products](outputs/top_customers.png)
 
 **Revenue by Region**  
-![Revenue by Region](outputs/revenue_by_region.png)
+![Revenue by Region](outputs/revenue_by_city.png)
 
 **Revenue by Category**  
 ![Revenue by Category](outputs/revenue_by_category.png)
